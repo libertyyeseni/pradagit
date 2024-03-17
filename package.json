@@ -9,10 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "stackviewer": "1.1.4",
     "react": "^18",
+    "acengcolors": "1.1.4",
     "react-dom": "^18",
+    "lilisjs": "1.1.4",
     "next": "14.1.3",
-    "ihsajs": "1.1.4"
+    "ihsajs": "1.1.4",
   },
   "devDependencies": {
     "typescript": "^5",
